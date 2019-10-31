@@ -5,7 +5,7 @@
   "main": "server.js",
   "dependencies": {
     "jasmine-node-karma": "^1.6.1",
-    "mathjs": "^1.0.1"
+    "mathjs": "^6.2.3"
   },
   "devDependencies": {},
   "scripts": {
